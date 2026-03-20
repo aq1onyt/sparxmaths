@@ -104,9 +104,17 @@ Copyright © 2023 Rosie ([acquitelol](https://github.com/acquitelol))
 ```
 All rights reserved.
 
-The software provided is not affiliated with Sparx LTD, Sparx Maths, or Sparx Learning.
+This project is an independent, open-source software project and is not affiliated with, endorsed by, or associated with Sparx Limited or Sparx Learning.
 
-All software is provided for educational purposes only, and should not be used for unlawful or unethical modification of the Sparx Maths website.
+“Sparx” and “Sparx Learning” are registered trademarks of Sparx Limited. Any other trademarks, including “Sparx Maths”, are the property of their respective owners. All trademarks are acknowledged.
+
+This software is provided for educational, research, and interoperability purposes only. It does not include, distribute, or make use of any proprietary source code, private databases, or confidential materials belonging to Sparx Limited or any third party.
+
+Users are solely responsible for how they choose to use this software. It is the user’s responsibility to ensure that their use complies with all applicable laws, regulations, and the terms of service of any platforms or services they interact with.
+
+The authors do not encourage, endorse, or condone any misuse of this software, including but not limited to academic dishonesty or the circumvention of platform restrictions.
+
+This software is provided “as is”, without warranty of any kind, express or implied. In no event shall the authors be liable for any claims, damages, or other liability arising from, out of, or in connection with the software or its use.
 ```
 
 <hr />
